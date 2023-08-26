@@ -8,7 +8,7 @@ The Google Map styling will be updated to more monotone color scheme.
 ## License
 MIT License
 
-Copyright (c) 2020 kogsio
+Copyright (c) 2023 by Hansol Junger
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
